@@ -3,3 +3,4 @@
 *.css
 *.woff
 *.js
+.DS_Store
