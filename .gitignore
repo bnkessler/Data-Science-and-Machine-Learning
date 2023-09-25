@@ -4,3 +4,4 @@
 *.woff
 *.js
 .DS_Store
+*.xml
